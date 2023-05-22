@@ -1,0 +1,23 @@
+.data{
+  margin: 2em auto;
+  display: flex;
+  justify-content: center;
+}
+header{
+  height: 10vh;
+}
+footer {
+  position: block;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.footer{
+  padding-bottom: 0px;
+  display: block;
+  height: 10vh;
+}
+
+main{
+  min-height: calc(100vh - 20vh);
+}

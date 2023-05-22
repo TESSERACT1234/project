@@ -1,0 +1,6 @@
+.mainfooter{
+    display: flex;
+    flex-direction: row;
+    padding: 2em;
+    color: white
+}

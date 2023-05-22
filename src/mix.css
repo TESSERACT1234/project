@@ -1,0 +1,155 @@
+.homepage{
+  background-image: url("../public/images/bg2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* ................................................................ */
+
+.dogreatimage{
+    
+    height: 100%;
+    width: 40%;
+    align-items: center;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+
+.doimage{
+    background-image: url(../public/images/bgi.jpg);
+    /* background-color: orangered; */
+    padding: 2%;
+  }
+
+ .nav-link active{
+  text-align: left;
+ } 
+
+ .navbarimage{
+  width: 10%;
+ }
+
+ .navbar-brand{
+  font-family: Garamond;
+  
+ }
+
+ .nav-item{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+ }
+    
+
+/* ................................................................ */
+.card{
+  margin-inline: 5em;
+  
+}
+
+.segment{
+    display: flex;
+    flex-direction: row;
+    margin: 2em;
+}
+
+.card-img{
+    width: auto;
+    height: 150px;
+}
+
+.segment2{
+    display: flex;
+    flex-direction: row;
+}
+
+.quote{
+    display: flex;
+    flex-direction: row;
+    padding: auto;
+    margin: auto;
+}
+
+.quoteimage{
+    height: 30%;
+    width: 30%;
+    align-self: center;
+}
+
+/* ............................................................. */
+
+.functionalities{
+  /* background-color:orangered; */
+  /* opacity: 20%; */
+  display: flex;
+  flex-direction: row;
+  margin: 1em;
+  padding: auto;
+  margin-left: 3em;
+}
+
+.segment-1{
+  display: flex;
+  flex-direction: row;
+  margin: 1em;
+  /* padding: auto; */
+  margin-left: 1em;
+}
+
+/* .............................................................. */
+.channel{
+  display: flex;
+  flex-direction: row;
+  padding: 3rem;
+  
+}
+
+.yresource{
+  
+  
+  padding: 3rem;
+}
+
+.channelds{
+  margin: 1em;
+}
+
+.channelimg{
+  justify-items: center;
+  
+}
+
+.brokers{
+  padding: 1rem;
+}
+
+.brimg{
+width: auto;
+height: 16rem;
+}
+
+book1{
+  display: flex;
+  flex-direction: column;
+}
+ 
+.buynow{
+  justify-items: center;
+}
+
+/* ............................................................................. */
+
+/* .description{ */
+  /* background-color: bisque; */
+/* } */
+
+.aboutd{
+  display: flex;
+  flex-direction: row;
+}
+
+.aboutimg{
+  margin: 1em;
+}
